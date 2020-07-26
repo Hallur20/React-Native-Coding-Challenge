@@ -2,5 +2,5 @@
 
 in order to run the app, you will need to do two terminal commands:
 
-<p>npm install</p>
-<p>npm start</p>
+<b>npm install</b>
+<b>npm start</b>
